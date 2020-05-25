@@ -18,8 +18,7 @@ VIP积分：
 - VIP购买商品时候会同时给出剩余积分
 
 ### 静态类图
-![](image/类图.png)
-
+![](http://39.96.207.98/wp-content/uploads/2020/05/类图.png)
 
 ### 运行结果
-![](image/运行结果.png)
+![](http://39.96.207.98/wp-content/uploads/2020/05/运行结果.png)
